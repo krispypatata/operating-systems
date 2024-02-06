@@ -1,0 +1,17 @@
+a thread of execution
+a process can be considered a thread
+
+thread
+1. thread id
+2. program counter
+3. stack
+
+code, data, files = kita ng lahat ng process
+
+sa dulo ng ipapasang function yung termination ng thread (pthread_exit)
+
+create
+exit 
+join
+
+kapag gusto magdagdag ng extra parameter ay magdadagdag lang sa structure

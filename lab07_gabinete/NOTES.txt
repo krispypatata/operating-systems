@@ -1,0 +1,50 @@
+data segment
+code segment
+stack
+heap
+
+multi-threaded processs
+
+data
+code
+stack is divided into multiple parts
+
+
+a.c 
+mag cocompute ng first/ left half ng matrix
+
+b.c 
+magcocompute ng other half ni matrix
+mag piprint ng result ng buong matrix
+
+a = 3x2 
+b = 2x4
+
+result = 3x4
+
+a.c b.c
+**  **
+**  **
+**  **
+
+kapag odd yung matrix result
+dapat mas maraming macocompute si a.c
+
+2X3
+a.c   b.c 
+**    *
+**    *
+
+matrix multiplication
+
+example 
+3x2  multiply sa 2x1
+
+0th row 
+00 = 0th row ni matrix a * 0th column ni matrix b
+
+4 shared memory segments dapat ang gagawin
+4 din ang keys dapat
+
+
+
